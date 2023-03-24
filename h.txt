@@ -1,5 +1,5 @@
 Hello world
 컴퓨터공학과 202003615 최진호
-99요
+99입니당
 
 touched by ID 2
